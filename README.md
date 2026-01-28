@@ -24,6 +24,8 @@ The project follows a **feature-first** organization, aiming for scalability, cl
 
 ## 🗂️ Current Structure
 
+**Structure:**
+```
 lib/
 ├── core/
 │ ├── app/
@@ -81,7 +83,7 @@ lib/
 │
 ├── main.dart
 └── generated_plugin_registrant.dart
-
+```
 
 ---
 
